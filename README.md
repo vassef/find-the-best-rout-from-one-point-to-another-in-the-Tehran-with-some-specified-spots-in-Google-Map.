@@ -13,4 +13,10 @@ You can find the region specified in the google map below:
 
 As for the data, I extracted the duration and distance between any two specified location in the map as a tuple:
 
+![Data](https://github.com/vassef/find-the-best-rout-from-one-point-to-another-in-the-Tehran-with-some-specified-spots-in-Google-Map./blob/7db74f401347f756e043668211c6b9a28e89cec4/Data_Info.png)
+
+## Graph reperesentation
+
+Here is the final graph representation which is a big picture of what have been descried above:
+
 ![gg](https://github.com/vassef/find-the-best-rout-from-one-point-to-another-in-the-Tehran-with-some-specified-spots-in-Google-Map./blob/f83e7ad33bbcf7dad74aa63940e3508b80ee4253/graph_representation.png)
